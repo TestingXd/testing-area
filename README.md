@@ -1,2 +1,3 @@
 # testing-area
-area which contains tests.
+Hello world.
+
